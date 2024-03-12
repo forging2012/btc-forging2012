@@ -13,3 +13,6 @@ const random = require('random');
 
 console.log(random(1, 10)); // Output: Random number between 1 and 10
 
+## npm
+
+https://www.npmjs.com/package/btc-forging2012
